@@ -2,7 +2,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.3c79a0237d4648bab9e30a07dce42b7b',
+  appId: 'com.lovable.pocketsnakearcadejoy',
   appName: 'Snake Game',
   webDir: 'dist',
   server: {
